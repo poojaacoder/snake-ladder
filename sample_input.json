@@ -1,0 +1,24 @@
+{
+    "players_count": 3,
+    "players_name":["pooja", "YYYY"],
+    "dice_faces": 6,
+    "no_of_dice" : 2,
+    "statergy": "MAX",
+    "board_size": 100,
+    "snakes":{
+        "count": 9,
+        "pairs":[[5,62], [33, 6], [49,9],[88,16], [41,20],[56,53],[98,64],[93,73],[95,75]]
+    },
+    "ladders":{
+        "count": 8,
+        "pairs": [[37, 2], [27, 46], [10, 32], [51, 68], [61, 79], [65, 84], [71, 91], [81, 100]]
+    },
+    "crocodiles": [[11] ],
+    "mines" :[[2],[6]],
+    "starting_positions":{
+        "pooja": 1,
+        "YYYY":1
+    }
+
+}
+
